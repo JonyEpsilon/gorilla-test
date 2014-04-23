@@ -4,8 +4,9 @@
                  [hiccup "1.0.5"]
                  [expresso "0.2.0"]
                  [aysylu/loom "0.4.2"]
+                 [org.clojure/data.xml "0.0.7"]
 		 [gorilla-renderable "1.0.0"]]
   :main ^:skip-aot gorilla-test.core
   :target-path "target/%s"
-  :plugins [[lein-gorilla "0.3.0-SNAPSHOT"]]
+  :plugins [[lein-gorilla "0.3.1-SNAPSHOT"]]
   :profiles {:uberjar {:aot :all}})
