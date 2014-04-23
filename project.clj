@@ -3,7 +3,8 @@
   :dependencies [[org.clojure/clojure "1.5.1"]
                  [hiccup "1.0.5"]
                  [expresso "0.2.0"]
-                 [aysylu/loom "0.4.2"]
+                 [aysylu/loom "0.4.3-SNAPSHOT"]
+                 [loom-gorilla "0.1.0-SNAPSHOT"]
                  [org.clojure/data.xml "0.0.7"]
 		 [gorilla-renderable "1.0.0"]]
   :main ^:skip-aot gorilla-test.core
