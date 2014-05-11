@@ -6,7 +6,7 @@
                  [aysylu/loom "0.4.3-SNAPSHOT"]
                  [loom-gorilla "0.1.0-SNAPSHOT"]
                  [org.clojure/data.xml "0.0.7"]
-                 [incanter-gorilla "0.1.0-SNAPSHOT"]
+                 [incanter-gorilla "0.1.0"]
                  [gorilla-renderable "1.0.0"]]
   :main ^:skip-aot gorilla-test.core
   :target-path "target/%s"

@@ -3,9 +3,9 @@
 ;; **
 ;;; # Incanter integration
 ;;; 
-;;; Some examples of the integration with the Incanter statistical computing package.
+;;; Some examples of the integration with the Incanter statistical computing package. To use this in your Gorilla worksheets add a dependency on `incanter-gorilla` to your project, currently at version `0.1.0`.
 ;;; 
-;;; As well as `use`ing the Incanter libraries, and also bring in the incanter-gorilla renderer. This allows Incanter charts to be rendered into the worksheet.
+;;; As well as `use`ing the Incanter libraries, also bring in the incanter-gorilla renderer. This allows Incanter charts to be rendered into the worksheet.
 ;; **
 
 ;; @@
